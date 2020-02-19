@@ -1,1 +1,1 @@
-nome#url#branch
+Proj1#https://github.com/ccangemi-redhat/test.git#master
