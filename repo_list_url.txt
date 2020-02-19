@@ -1,1 +1,1 @@
-Proj1#https://github.com/ccangemi-redhat/test.git#master
+Proj1#https://github.com/ccangemi-redhat/test.git#branch1
