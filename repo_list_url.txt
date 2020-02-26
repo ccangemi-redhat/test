@@ -1,2 +1,3 @@
 Proj2 https://github.com/ccangemi-redhat/test.git#branch1
 NewProj https://github.com/ccangemi-redhat/test.git#branch1
+Prj3 https://github.com/ccangemi-redhat/test.git#branch1
