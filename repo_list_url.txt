@@ -1,8 +1,4 @@
 project0 https://github.com/ccangemi-redhat/test.git#branch1
 project1 https://github.com/ccangemi-redhat/test.git#branch1
 project2 https://github.com/ccangemi-redhat/test.git#branch1
-project3 https://github.com/ccangemi-redhat/test.git#branch1
-project4 https://github.com/ccangemi-redhat/test.git#branch1
-project5 https://github.com/ccangemi-redhat/test.git#branch1
-project6 https://github.com/ccangemi-redhat/test.git#branch1
 
