@@ -1,9 +1,6 @@
-Proj2 https://github.com/ccangemi-redhat/test.git#branch1
-NewProj https://github.com/ccangemi-redhat/test.git#branch1
-Prj3 https://github.com/ccangemi-redhat/test.git#branch1
-Prj4 https://github.com/ccangemi-redhat/test.git#branch1
-Prj5 https://github.com/ccangemi-redhat/test.git#branch1
-Prj6 https://github.com/ccangemi-redhat/test.git#branch1
-Prj7 https://github.com/ccangemi-redhat/test.git#branch1
-Prj8 https://github.com/ccangemi-redhat/test.git#branch1
-pop https://github.com/ccangemi-redhat/test.git#branch1
+project1 https://github.com/ccangemi-redhat/test.git#branch1
+project2 https://github.com/ccangemi-redhat/test.git#branch1
+project3 https://github.com/ccangemi-redhat/test.git#branch1
+project4 https://github.com/ccangemi-redhat/test.git#branch1
+project5 https://github.com/ccangemi-redhat/test.git#branch1
+
