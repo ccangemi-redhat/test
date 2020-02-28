@@ -8,5 +8,6 @@ project6 https://github.com/ccangemi-redhat/test.git#branch1
 project89 https://github.com/ccangemi-redhat/test.git#branch1
 project8 https://github.com/ccangemi-redhat/test.git#branch1
 project10 https://github.com/ccangemi-redhat/test.git#branch1
+project11 https://github.com/ccangemi-redhat/test.git#branch1
 
 
