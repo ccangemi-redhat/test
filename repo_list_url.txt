@@ -1,4 +1,2 @@
 project0 https://github.com/ccangemi-redhat/test.git#branch1
-project1 https://github.com/ccangemi-redhat/test.git#branch1
-project2 https://github.com/ccangemi-redhat/test.git#branch1
-#project3 https://github.com/ccangemi-redhat/test.git#branch1
+geo https://github.com/mauiroma/geo.git#dev
