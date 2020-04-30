@@ -3,6 +3,6 @@ name: test-jenkins-app
 namespace: test-jenkins-app
 git:
   url: https://github.com/ccangemi-redhat/test.git
-  branch: sviluppo
+  branch: master
 auto-deploy: true
 ---
