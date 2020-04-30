@@ -1,0 +1,7 @@
+---
+name: test-jenkins-app
+namespace: test-jenkins-app
+git:
+  url: http://gitlab.rete.poste/SFORZAPI/test-jenkins-app.git
+  branch: sviluppo
+auto-build: true
