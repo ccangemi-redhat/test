@@ -4,6 +4,6 @@ applications:
   - name: test-jenkins-app
     namespace: test-jenkins-app
     git:
-      url: http://gitlab.rete.poste/SFORZAPI/test-jenkins-app.git
-      branch: sviluppo
+      url: https://github.com/ccangemi-redhat/test.git
+      branch: master
     auto-deploy: true
