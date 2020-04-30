@@ -1,8 +1,9 @@
----
-name: test-jenkins-app
-namespace: test-jenkins-app
-git:
-  url: https://github.com/ccangemi-redhat/test.git
-  branch: master
-auto-deploy: true
----
+cluster-url: https://master.svil2.ocprm.testposte:8443
+service-token: aaaa
+applications:
+  - name: test-jenkins-app
+    namespace: test-jenkins-app
+    git:
+      url: http://gitlab.rete.poste/SFORZAPI/test-jenkins-app.git
+      branch: sviluppo
+    auto-deploy: true
