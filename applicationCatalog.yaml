@@ -1,9 +1,17 @@
 cluster-url: https://master.svil2.ocprm.testposte:8443
-service-token: aaaa
+service-token-credential: OCP_SERVICE_TOKEN
+git-credential: GIT_TOKEN
+seed-job:
+  git:
+    url: https://github.com/ccangemi-redhat/test.git
+    branch: master
+    credential: GIT_TOKEN
+  folder: core-jobs
 applications:
-  - name: test-jenkins-app
-    namespace: test-jenkins-app
+  - name: feu-list
+    namespace: feu-list
     git:
-      url: https://github.com/ccangemi-redhat/test.git
-      branch: master
-    auto-deploy: true
+      url: http://gitlab.rete.poste/feu/lists.git
+      branch:  test_jenkins2 
+      credential: GIT_TOKEN
+    auto-deploy: false
